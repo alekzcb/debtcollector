@@ -1,0 +1,18 @@
+@House  Alex  Bradley Charlie David Emma  Frank
+@Pens   Alex  Bradley David
+
+# Weekly Shopping
+House 55.16 David
+
+# Cleaner
+House 8.02  Bradley
+
+# Pens
+Pens  4.12  Alex
+
+# Printing
+Frank 0.80  Emma
+
+# Milk
+House 1.48  Emma
+House 1.48  Charlie
