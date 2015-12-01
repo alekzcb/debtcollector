@@ -8,11 +8,10 @@ import java.util.Date;
 public class Debt {
 	
 	public static void main(String[] args) {
-	  if (args.length < 2) return;
-		//default directory
-		String input = args[0];
-		String output = args[1];
+		if (args.length < 2) return;
 		
+		String input = args[0];		// path to input file
+		String output = args[1];	// path to output file
 		optimise(input, output);
 	}
 	
